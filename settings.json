@@ -1,5 +1,4 @@
 {
-    "workbench.colorTheme": "One Dark Pro Mix",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "none",
     "workbench.layoutControl.enabled": false,
@@ -18,10 +17,12 @@
     ],
     "window.commandCenter": false,
     "window.customTitleBarVisibility": "auto",
+    "window.zoomLevel": 1,
     "terminal.integrated.smoothScrolling": true,
     "files.exclude": {
         "**/desktop.ini": true
     },
     "liveServer.settings.donotShowInfoMsg": true,
     "liveServer.settings.donotVerifyTags": true,
+    "chat.commandCenter.enabled": false,
 }
