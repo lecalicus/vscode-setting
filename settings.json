@@ -1,6 +1,8 @@
 {
     "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula Theme",
     "workbench.startupEditor": "none",
+    "window.restoreFullscreen": true,
     "workbench.layoutControl.enabled": false,
     "workbench.statusBar.visible": false,
     "workbench.list.smoothScrolling": true,
@@ -25,4 +27,5 @@
     "liveServer.settings.donotShowInfoMsg": true,
     "liveServer.settings.donotVerifyTags": true,
     "chat.commandCenter.enabled": false,
+    "terminal.integrated.defaultProfile.linux": "zsh",
 }
